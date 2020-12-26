@@ -36,7 +36,9 @@ In addition to Spigot, I study various Java frameworks and much more.
 
 ## Contacts
 Discord - Black_Baroness#4985
+
 Telegram - https://t.me/blackbaroness100
+
 VK - https://vk.com/black_baroness
 
 ## Languages
