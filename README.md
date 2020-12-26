@@ -8,7 +8,7 @@ In addition to Spigot, I study various Java frameworks and much more.
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/gradle-1-285287.png" width="50" height="50" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="50" height="50" />
-  <img src="https://pbs.twimg.com/media/D7qnTvEWwAA3JN3.png" width="50" height="50" />
+  <img src="https://pbs.twimg.com/media/D7qnTvEWwAA3JN3.png" width="60" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="50" height="50" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
