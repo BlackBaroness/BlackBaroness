@@ -2,7 +2,7 @@ I am a humble Java developer specializing in Spigot based plugins.
 
 In addition to Spigot, I study various Java frameworks and much more.
 
-## Knowladge
+## Knowledge
 <h4 align="center">Coding</h4>
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="50" height="50"/>
