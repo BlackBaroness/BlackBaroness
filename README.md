@@ -20,8 +20,8 @@ In addition to Spigot, I study various Java frameworks and much more.
 </p>
 <h4 align="center">Don't know much, but there are some projects</h4>
 <p align="center">
-  <img src="https://imgur.com/a/mmtpiv9.png" width="50" height="50" />
-  <img src="https://imgur.com/a/HbjZlac.png" width="50" height="50" />
+  <img src="https://i.imgur.com/C3jKkVQ.png" width="50" height="50" />
+  <img src="https://i.imgur.com/HbjZlac.png" width="50" height="50" />
   <img src="https://www.flaticon.com/svg/static/icons/svg/888/888839.svg" width="50" height="50" />
   <img src="https://pbs.twimg.com/media/Dk5LpKtW4AAcvFd.png" width="50" height="50" />
   <img src="https://freepikpsd.com/wp-content/uploads/2019/11/forge-png-1-Transparent-Images.png" width="50" height="50" />
