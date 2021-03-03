@@ -1,4 +1,4 @@
-I am a humble Java developer specializing in Spigot based plugins. 
+I am a humble Java developer specializing in Spigot based Minecraft plugins. 
 
 In addition to Spigot, I study various Java frameworks and much more.
 
