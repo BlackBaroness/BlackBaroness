@@ -45,3 +45,7 @@ Email - baroness@baronessdev.ru
 
 ## Languages
 Russian, English, Turkish
+
+## In-dev projects 🔥
+- BaronessAuth
+- RedAge (Full server)
