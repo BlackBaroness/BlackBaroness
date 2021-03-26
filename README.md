@@ -29,9 +29,9 @@ In addition to Spigot, I study various Java frameworks and much more.
 </p>
 <h4 align="center">Misc</h4>
 <p align="center">
-  <img src="https://img.icons8.com/color/344/adobe-photoshop.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/344/adobe-premiere-pro.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/344/adobe-illustrator.png" width="50" height="50"/>
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/photoshop.png" width="50" height="50"/>
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/premiere.png" width="50" height="50"/>
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/illustrator.png" width="50" height="50"/>
 </p>
 
 ## Contacts
@@ -40,6 +40,8 @@ Discord - Black_Baroness#4985
 Telegram - https://t.me/blackbaroness100
 
 VK - https://vk.com/black_baroness
+
+Email - baroness@baronessdev.ru
 
 ## Languages
 Russian, English, Turkish
