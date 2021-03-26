@@ -12,7 +12,7 @@ In addition to Spigot, I study various Java frameworks and much more.
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="50" height="50" />
   <img src="https://i.imgur.com/BGOQ8R0.png" alt="javascript" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" width="50" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/logo-intellij-idea.png" width="50" height="50" />
   <img src="https://apps24.org/images/stories/flexicontent/item_815_field_15/l_autohotkey_icon.png" width="50" height="50" />
   <img src="https://i.ibb.co/sVTqdzD/javafxlogo-removebg-preview.png" width="50" height="50" />
   <img src="https://symbols.getvecta.com/stencil_96/70_sqlite-icon.69fb0675d2.svg" width="50" height="50" />
