@@ -35,9 +35,11 @@ In addition to Spigot, I study various Java frameworks and much more.
 </p>
 
 
+
 ## In-dev projects 🔥
 - BaronessAuth
 - RedAge (Full server)
+
 
 ## Contacts
 Discord - Black_Baroness#4985
@@ -51,3 +53,9 @@ Email - baroness@baronessdev.ru
 ### Languages
 Russian, English, Turkish
 
+
+
+## Note 📝
+I haven't updated my free plugins in a long time. 
+Because of the constant commercial work, there is no time for this. 
+Some plugins are TERRIBLE and left only as a tribute.
