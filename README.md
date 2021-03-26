@@ -34,6 +34,11 @@ In addition to Spigot, I study various Java frameworks and much more.
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/illustrator.png" width="50" height="50"/>
 </p>
 
+
+## In-dev projects 🔥
+- BaronessAuth
+- RedAge (Full server)
+
 ## Contacts
 Discord - Black_Baroness#4985
 
@@ -43,9 +48,6 @@ VK - https://vk.com/black_baroness
 
 Email - baroness@baronessdev.ru
 
-## Languages
+### Languages
 Russian, English, Turkish
 
-## In-dev projects 🔥
-- BaronessAuth
-- RedAge (Full server)
