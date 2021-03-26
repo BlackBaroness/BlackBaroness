@@ -5,14 +5,14 @@ In addition to Spigot, I study various Java frameworks and much more.
 ## Knowledge
 <h4 align="center">Coding</h4>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/gradle-2-1174969.png" width="50" height="50" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="50" height="50" />
-  <img src="https://pbs.twimg.com/media/D7qnTvEWwAA3JN3.png" width="60" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/java.png" width="50" height="50"/>
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/gradle.png" width="50" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/maven.png" width="50" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/spigot.png" width="60" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="50" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="50" height="50" />
   <img src="https://i.imgur.com/BGOQ8R0.png" alt="javascript" width="50" height="50" />
-  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/logo-intellij-idea.png" width="50" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/idea.png" width="50" height="50" />
   <img src="https://apps24.org/images/stories/flexicontent/item_815_field_15/l_autohotkey_icon.png" width="50" height="50" />
   <img src="https://i.ibb.co/sVTqdzD/javafxlogo-removebg-preview.png" width="50" height="50" />
   <img src="https://symbols.getvecta.com/stencil_96/70_sqlite-icon.69fb0675d2.svg" width="50" height="50" />
