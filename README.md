@@ -37,8 +37,9 @@ In addition to Spigot, I study various Java frameworks and much more.
 
 
 ## In-dev projects 🔥
-- BaronessAuth
-- RedAge (Full server)
+- BaronessAuth (paidware)
+- BaronessWhitelist (freeware)
+- RedAge (server)
 
 
 ## Contacts
