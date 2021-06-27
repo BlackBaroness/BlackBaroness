@@ -9,6 +9,7 @@ In addition to Spigot, I study various Java frameworks and much more.
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/gradle.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/maven.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/spigot.png" width="60" height="50" />
+  <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/bungeecord.png" width="60" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/css.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/html.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/javascript.png" width="50" height="50" />
