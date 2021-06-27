@@ -18,7 +18,7 @@ In addition to Spigot, I study various Java frameworks and much more.
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/sqlite.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/mysql.png" width="50" height="50" />
 </p>
-<h4 align="center">Don't know much, but there are some projects</h4>
+<h4 align="center">Don't know much, but had some work experience</h4>
 <p align="center">
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/debian.png" width="50" height="50" />
   <img src="https://github.com/BlackBaroness/BlackBaroness/blob/main/ubuntu.png" width="50" height="50" />
@@ -38,8 +38,25 @@ In addition to Spigot, I study various Java frameworks and much more.
 
 ## In-dev projects 🔥
 - BaronessAuth (paidware)
-- BaronessWhitelist (freeware)
-- RedAge (server)
+- BaronessWhitelist\Chat (freeware) (desperately trying to find time for this)
+
+## Servers that I work with
+### Constantly
+- RedAge
+- AbelixClub
+
+### Single orders
+- RPWORLD (child of PolitMine)
+- ElementCraft
+- NationCraft
+- SapphireLife
+- Rex-PixeL
+- WorldCraft
+- Shards of Roman Empire
+- HungerGames Return
+- ULTIMATE MINE
+- Laidecon
+- and dozens of servers whose name was not disclosed to me...
 
 
 ## Contacts
