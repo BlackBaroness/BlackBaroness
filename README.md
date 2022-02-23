@@ -42,10 +42,13 @@ In addition to Spigot, I study various Java frameworks and much more.
 - BaronessWhitelist\Chat (freeware) (desperately trying to find time for this)
 
 ## Servers that I work with
-### Constantly
+
+### Constantly 
+- DreamMine
+
+### Constantly (in past)
 - RedAge
 - AbelixClub
-- DreamPack
 
 ### Single orders
 - RPWORLD (child of PolitMine)
