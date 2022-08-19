@@ -77,7 +77,6 @@ I'm a Java developer specializing mainly in Minecraft servers. I work with every
 [Discord](https://discord.com/users/549150626764947470)
 [Telegram](https://t.me/blackbaroness100)
 [VK](https://vk.com/black_baroness)
-[Email](mailto:baroness@baronessdev.ru)
 
 ### Languages
 Russian, English, Turkish
