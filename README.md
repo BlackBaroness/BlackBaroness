@@ -43,12 +43,13 @@ I'm a Java developer specializing mainly in Minecraft servers. I work with every
 ## Servers that I work with
 
 ### Constantly 
-- DreamMine
-- [DiamondWorld](https://vk.com/diamondworld)
+- None currently
 
 ### Constantly (in past)
-- RedAge
 - AbelixClub
+- RedAge
+- DreamMine
+- [DiamondWorld](https://vk.com/diamondworld)
 
 ### Single orders
 - RPWORLD (child of PolitMine)
