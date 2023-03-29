@@ -27,12 +27,12 @@ that is both functional and elegant, making a positive impact on the world.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-1C1C1C?style=for-the-badge&logo=h2&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![HSQLDB](https://img.shields.io/badge/HSQLDB-008CBA?style=for-the-badge&logoColor=white&logo=mcdonalds)
+![HSQLDB](https://img.shields.io/badge/HSQLDB-008CBA?style=for-the-badge&logoColor=white)
 
 ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![OrmLite](https://img.shields.io/badge/OrmLite-1C1C1C?style=for-the-badge&logo=kfc)
-![Bukkit](https://img.shields.io/badge/Bukkit-E34F26?style=for-the-badge&logo=burger-king)
+![OrmLite](https://img.shields.io/badge/OrmLite-1C1C1C?style=for-the-badge)
+![Bukkit](https://img.shields.io/badge/Bukkit-E34F26?style=for-the-badge)
 ![Guice](https://img.shields.io/badge/Guice-59C36A?style=for-the-badge&logo=google&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
