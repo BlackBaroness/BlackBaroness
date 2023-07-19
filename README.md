@@ -1,6 +1,6 @@
 # About me
 
-I'm a Java developer who loves to build high-quality, well-designed software products.
+I'm a Java/Kotlin developer who loves to build high-quality, well-designed software products.
 My work style is collaborative, and I thrive in team environments.
 
 I'm constantly seeking out new ways to improve my skills and knowledge,
