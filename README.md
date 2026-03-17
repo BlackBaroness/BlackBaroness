@@ -7,6 +7,7 @@ I primarily work on proprietary Minecraft server projects (CIS region), includin
 - [ElementCraft](https://vk.com/mcelement)
 - [LoonyCube](https://loonycube.fun/)
 - [WellMine](https://www.wellmine.fun)
+- [CakeWorld](https://t.me/CakeWorlds)
 
 I usually deal with Minecraft-related backend and infrastructure parts: multiserver systems (auctions, clans), cracked auth flows, and other things that have to stay consistent under load and across multiple servers.
 
