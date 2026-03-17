@@ -3,9 +3,10 @@ Backend developer focused on JVM ecosystem since 2020.
 I primarily work on proprietary Minecraft server projects (CIS region), including:
 
 - [PolitMine](https://vk.com/politmine)
-- [WellMine](https://www.wellmine.fun)
-- [ElementCraft](https://vk.com/mcelement)
 - [SaturnX](https://vk.com/saturnxoff)
+- [ElementCraft](https://vk.com/mcelement)
+- [LoonyCube](https://loonycube.fun/)
+- [WellMine](https://www.wellmine.fun)
 
 I usually deal with Minecraft-related backend and infrastructure parts: multiserver systems (auctions, clans), cracked auth flows, and other things that have to stay consistent under load and across multiple servers.
 
