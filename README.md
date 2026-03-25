@@ -6,8 +6,6 @@ I primarily work on proprietary Minecraft server projects (CIS region), includin
 - [SaturnX](https://vk.com/saturnxoff)
 - [ElementCraft](https://vk.com/mcelement)
 - [LoonyCube](https://loonycube.fun/)
-- [WellMine](https://www.wellmine.fun)
-- [CakeWorld](https://t.me/CakeWorlds)
 
 I usually deal with Minecraft-related backend and infrastructure parts: multiserver systems (auctions, clans), cracked auth flows, and other things that have to stay consistent under load and across multiple servers.
 
@@ -25,10 +23,11 @@ Occasionally working with low-level details like custom serialization, performan
 
 I like contributing to open source and occasionally publishing my own work.
 
-Some of my projects (MIT):
+Some of my projects:
 - [vk-sdk-kotlin](https://github.com/BlackBaroness/vk-sdk-kotlin)
 - [boilerplate](https://github.com/BlackBaroness/boilerplate)
 - [duration-serializer-java](https://github.com/BlackBaroness/duration-serializer-java)
+- [ZNPCsPlus-Modern](https://github.com/BlackBaroness/ZNPCsPlus-Modern)
 
 Some of the projects I sometimes contribute to:
 - [LiteCommands](https://github.com/Rollczi/LiteCommands)
