@@ -28,6 +28,7 @@ Some of my projects:
 - [boilerplate](https://github.com/BlackBaroness/boilerplate)
 - [duration-serializer-java](https://github.com/BlackBaroness/duration-serializer-java)
 - [ZNPCsPlus-Modern](https://github.com/BlackBaroness/ZNPCsPlus-Modern)
+- [DeluxeMenus-Modern](https://github.com/BlackBaroness/DeluxeMenus-Modern)
 
 Some of the projects I sometimes contribute to:
 - [LiteCommands](https://github.com/Rollczi/LiteCommands)
