@@ -29,6 +29,7 @@ Some of my projects:
 - [duration-serializer-java](https://github.com/BlackBaroness/duration-serializer-java)
 - [ZNPCsPlus-Modern](https://github.com/BlackBaroness/ZNPCsPlus-Modern)
 - [DeluxeMenus-Modern](https://github.com/BlackBaroness/DeluxeMenus-Modern)
+- [adventure-bungeecord](https://github.com/BlackBaroness/adventure-bungeecord)
 
 Some of the projects I sometimes contribute to:
 - [LiteCommands](https://github.com/Rollczi/LiteCommands)
